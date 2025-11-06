@@ -5,27 +5,7 @@
 🔥 Backend · DevOps · Cloud · System Design · AI/ML  
 📍 Pune, India  
 
----
 
-## 📈 GitHub Stats & Graphs
-
-<div align="center">
-
-### ⭐ Overall Stats
-<img src="https://github-readme-stats.vercel.app/api?username=AtharvaAnbhule&show_icons=true&theme=default&hide_border=true" />
-
-### 🔥 Streak Graph
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AtharvaAnbhule&theme=default&hide_border=true" />
-
-### 📊 Languages Used
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaAnbhule&layout=compact&theme=default&hide_border=true" />
-
-### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=AtharvaAnbhule&theme=flat&no-frame=true&row=1" />
-
-</div>
-
----
 
 ## 🛠 Tech Stack
 
