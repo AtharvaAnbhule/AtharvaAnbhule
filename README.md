@@ -13,13 +13,19 @@
 C · C++ · Python · Java · Go
 
 ### **Backend & Frameworks**
-Spring Boot · React.js · Next.js
+Spring Boot · React.js · Next.js · React Native · Django · Node.js
 
 ### **Cloud & DevOps**
-AWS · Docker · Kubernetes · Jenkins · Terraform · Linux · CI/CD
+AWS · Docker · Kubernetes · Jenkins · Terraform · Linux · CI/CD 
 
 ### **Databases**
-MySQL · PostgreSQL · MongoDB · Prisma
+MySQL · PostgreSQL · MongoDB · Prisma 
+
+### **Networking**
+TCP/IP · DHCP · DNS · VLAN · VPN · Subnetting · Routing · Switching ·  
+Load Balancing · Firewalls · Virtualization (VMware, KVM) · Hypervisors ·  
+Storage Systems (NFS, iSCSI) · Distributed Systems · Cloud Networking (AWS VPC)
+
 
 ---
 
