@@ -11,10 +11,11 @@
 
 # 🚀 About Me
 
-- 🔹 Passionate about **backend engineering**, **AI/ML**, **distributed systems**, and **DevOps**  
-- 🔹 Skilled in building scalable **microservices**, **cloud-native infra**, and **production-grade ML pipelines**  
-- 🔹 Competitive programmer with global rankings (Codeforces & Toyota Systems)  
-- 🔹 Always learning, experimenting, and building impactful products  
+- Backend, AI/ML & cloud-focused engineer passionate about building scalable systems  
+- Experienced in microservices, distributed systems, networking & cloud-native architectures  
+- Open-source contributor with a strong foundation in system design & DevOps  
+- Achieved global competitive programming ranks (Toyota Systems + Codeforces)  
+- Always learning, improving, and building value-driven projects  
 
 ---
 
@@ -24,45 +25,45 @@
 C · C++ · Python · Java · Go
 
 ### **AI / Machine Learning**
-NLP · Deep Learning · Scikit-Learn · PyTorch · TensorFlow ·  
-Data Engineering · Feature Engineering · ML Optimization  
-Model Deployment · CUDA Acceleration
+NLP · Deep Learning · Scikit-Learn · PyTorch · TensorFlow  
+Data Engineering · ML Optimization · Model Deployment · CUDA  
 
-### **Frameworks & Backend**
-Spring Boot · React.js · Next.js · **React Native** · Django · Node.js
+### **Backend & Frameworks**
+Spring Boot · React.js · Next.js · **React Native** · Django · Node.js  
 
 ### **Cloud & DevOps**
-AWS · Docker · Kubernetes · Terraform · Jenkins · Linux ·  
-CI/CD Pipelines · Monitoring & Observability · GitHub Actions
+AWS · Docker · Kubernetes · Terraform · Jenkins  
+Linux · GitHub Actions · CI/CD Pipelines · Cloud Monitoring  
 
 ### **Databases**
-MySQL · PostgreSQL · MongoDB · Prisma ORM
+MySQL · PostgreSQL · MongoDB · Prisma ORM  
 
 ### **Networking & Systems**
-TCP/IP · DHCP · DNS · VLAN · VPN · Subnetting · Routing · Switching  
-Load Balancing · Firewalls · VMware/KVM · Distributed Systems · AWS VPC
+TCP/IP · DHCP · DNS · VLAN · VPN · Subnetting  
+Routing · Switching · Load Balancing · Firewalls  
+VMware/KVM · Distributed Systems · AWS VPC Design  
 
 ---
 
 # 🏅 Certifications
 
-- 🥇 Oracle DevOps Certification  
-- ☁️ AWS Cloud Certification  
-- ☕ Java Programming Certification  
-- 🐧 Linux Administration (Udemy)  
-- 🐳 Git, Docker, DevOps & Cloud Fundamentals  
+- Oracle DevOps Certification  
+- AWS Cloud Certification  
+- Java Programming Certification  
+- Linux Administration (Udemy)  
+- Git, Docker, DevOps & Cloud Fundamentals  
 
 ---
 
 # 🏆 Achievements
 
-- 🏆 **Smart India Hackathon Winner**
-- 🌍 **Global Rank 362 – Toyota Systems Contest**
-- 💥 **Rank 4 – Codeforces Contest**
-- 🛠 **Open Source Contributor – LangChain**
-- 🥈 **IIT Madras Debugging Challenge – 2nd Place**
-- 🔥 **350+ LeetCode Problems Solved**
-- 🤝 Led **10+ community initiatives** (Rotaract Club)
+- 🏆 **Smart India Hackathon Winner**  
+- 🌍 **Global Rank 362 – Toyota Systems Programming Contest**  
+- 💥 **Rank 4 – Codeforces Contest**  
+- 🛠 **Open Source Contributor – LangChain**  
+- 🥈 **IIT Madras Debugging Challenge – 2nd Place**  
+- 🔥 **350+ LeetCode Problems Solved**  
+- 🤝 Led **10+ community initiatives** (Rotaract Club)  
 
 ---
 
@@ -70,17 +71,17 @@ Load Balancing · Firewalls · VMware/KVM · Distributed Systems · AWS VPC
 
 ### 🟦 Intel Corporation — Intel Unnati Training  
 📅 Jan 2025 – July 2025  
-- Optimized AI image enhancement pipelines using **Python, React, Next.js, CUDA**  
-- Improved ML model efficiency by **40% using knowledge distillation**  
-- Integrated NLP + ML + data pipelines → **30% faster training cycles**
+- Optimized AI image enhancement pipelines using **Python, CUDA, React, Next.js**  
+- Improved ML model efficiency by **40%** using knowledge distillation  
+- Built NLP + ML + data pipelines enabling **30% faster training cycles**  
 
 ---
 
 ### 🟩 Software Development Engineer Intern — Applically  
 📅 June 2024 – Jan 2025  
-- Developed cloud-native **Spring Boot microservices**  
-- Automated infra using **Terraform + Docker + CI/CD**  
-- Implemented observability → **40% reliability improvement**
+- Developed cloud-native microservices with **Spring Boot**  
+- Automated infra using **Terraform, Docker & CI/CD**  
+- Implemented observability → improved system reliability by **40%**  
 
 ---
 
@@ -88,48 +89,16 @@ Load Balancing · Firewalls · VMware/KVM · Distributed Systems · AWS VPC
 
 ### 🚀 **Workeloo CRM — Cloud Native Platform (Live)**
 **Next.js · React · Spring Boot · PostgreSQL · AWS**  
-- Downtime reduced **60%**  
-- Enterprise adoption increased **30%**  
-- Real-time ML monitoring + secure RBAC
+- Reduced downtime by **60%**  
+- Improved enterprise adoption by **30%**  
+- Integrated ML monitoring, RBAC & scalable backend architecture  
 
 ---
 
 ### 🤖 **AI Coffee Shop Customer Chatbot**  
 **React Native · NLP · ML**  
-- Accuracy improved **35%**  
-- Conversions improved **25%**
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-![Atharva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AtharvaAnbhule&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaAnbhule&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AtharvaAnbhule&theme=tokyonight&margin-w=10&no-frame=true)
-
-</div>
-
----
-
-# 🔥 Contribution Graph
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=AtharvaAnbhule&theme=tokyonight&hide_border=true)
-
-</div>
+- Boosted prediction accuracy by **35%**  
+- Increased upsell conversions by **25%**  
 
 ---
 
@@ -153,5 +122,5 @@ atharvaanbhule@gmail.com
 ---
 
 <p align="center">
-  🚀 <strong>Building, learning, and shipping something better every day.</strong>
+  🚀 <strong>Always building. Always learning. Always shipping.</strong>
 </p>
